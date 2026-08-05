@@ -32,7 +32,7 @@ As seguintes fontes abertas foram adicionadas ao NotebookLM:
    https://www.youtube.com/watch?v=y39Ws92mhjE
 
 4. Microsoft Learn – IA Generativa
-   https://learn.microsoft.com/training/
+   https://learn.microsoft.com/pt-br/training/modules/fundamentals-generative-ai/
 
 5. Documentação do NotebookLM
    https://notebook.google.com/notebook/f181bf83-a719-45b7-950d-1a2c68f0942f
