@@ -1,4 +1,4 @@
-# notebooklm-guia-estudos
+# Notebooklm-guia-estudos
 Miniguia de Estudos com NotebookLM
 
 # 📚 Miniguia de Estudos com NotebookLM
