@@ -35,7 +35,7 @@ As seguintes fontes abertas foram adicionadas ao NotebookLM:
    https://learn.microsoft.com/pt-br/training/modules/fundamentals-generative-ai/
 
 5. Documentação do NotebookLM
-   https://notebook.google.com/notebook/f181bf83-a719-45b7-950d-1a2c68f0942f
+   https://notebooklm.google.com/notebook/cd95e01b-f99b-46fd-95d4-66d275cc4541?utm_source=nlmm_share
    
 6. FIA
    https://fia.com.br/wp-content/uploads/2024/02/Extensao_Inteligencia-Artificial-Generativa.pdf
